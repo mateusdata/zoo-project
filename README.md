@@ -26,4 +26,3 @@ mvn test
 ```
 
 Happy coding!
-# zoo-project
